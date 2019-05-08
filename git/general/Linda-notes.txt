@@ -1,0 +1,11 @@
+Linda's notes
+
+Can go through multiple steps of staging things, so you can go back steps if you need to before commiting to the repository.
+
+Each commit comment should only be a single sentence that is easy to explain
+
+To look at a full comment (if you've typed something like War and Peace but you shouldn't be) open a shell (on Git tab: more -> Shell)
+type "git log"
+
+If you don't want files to be included in the repository - put these into the .gitignore file. To ignore all text files you can put in *.txt.
+Just remember to put the path of file in.
