@@ -1,0 +1,6 @@
+Push is a feature in Rstudio which allows you to push your 'data' up to github 
+The push feature is only available once your project has been linked to github
+If your project has been cloned from github this is already a feature 
+If yours is a new project you will need to ensure 'create a file repository'is selcted 
+If you are working with multiple people you may find it hard to push your project as you may not have the most recent version in Rstudio 
+If this happens simply pull down a new version and then push immediatley 
