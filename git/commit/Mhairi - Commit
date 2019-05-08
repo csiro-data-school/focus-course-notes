@@ -1,5 +1,0 @@
-* Commit is the venacular used instead of confirm 
-* Commit is how we cofirm changes which are then saved on GIT 
-* It is the last step after staging any changes 
-* Your commit message should be the length of one soild sentence
-* If your commit message does exceed the preview text size you can see the whole message by clicking on settings > shell > 'git log' and searching
