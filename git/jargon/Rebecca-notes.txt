@@ -1,0 +1,6 @@
+Rebecca-notes.txt
+
+The * is like a wildcard.
+For example, in .gitignore if you want to ignore any files within the confidential file, you might put something like:
+
+  confidential/*
