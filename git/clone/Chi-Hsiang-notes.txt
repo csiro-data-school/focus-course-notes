@@ -1,1 +1,3 @@
 Git helps in managing versions while GitHub provides a cloud storage for the latest comitted version.  And the best of all is they are free!
+
+* If Push fails, try to Pull the latested version from GitHub and then Push again.
