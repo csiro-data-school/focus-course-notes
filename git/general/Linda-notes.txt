@@ -8,4 +8,4 @@ To look at a full comment (if you've typed something like War and Peace but you 
 type "git log"
 
 If you don't want files to be included in the repository - put these into the .gitignore file. To ignore all text files you can put in *.txt.
-Just remember to put the path of file in.
+Just remember to put the path of file in eg data/filename
