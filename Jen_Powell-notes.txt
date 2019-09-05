@@ -1,3 +1,0 @@
-Git notes
-For projects with large data files we are probably better to use git to store codes and changes made to codes
-If working with others on github, it is best to not upload user-specific R settings. So open .gitignore and add focus-course-notes.Rproj and .gitignore and save them. This will mean that you can't accidentally stage and commit these locally. If you do this locally you will upload them and it will change settings when others pull/download them.

@@ -1,1 +1,0 @@
-Remember to use the extension .git when cloning. 

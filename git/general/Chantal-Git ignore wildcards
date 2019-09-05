@@ -1,7 +1,0 @@
-To ignore a generic file name in all projects use "*" prior to the file name
-
-eg: "*personal file"
-
-To hide all files within a given folder use "/*" after the folder name
-
-eg: "confidential/*"

@@ -1,6 +1,0 @@
-r-studio is a graphical user interface (GUI) where users can conduct version control on their files.
-
-Git is a version control system - it records snapshots and tracks the content of a folder as it changes over time.
-
-Git hub is a popular platform for sharing software. It is an online repository where users can externally store their work for backup purposes and project management. 
-

@@ -1,1 +1,0 @@
-Cloning is where you 'grab' content from a repository on Github and import it into RStudio on your own local computer so you can make edits

@@ -1,9 +1,0 @@
-Rebecca-notes.txt
-
-If there is a long commit message you want to read, this needs to be done via the command line.  
-To do this, go to 'More' then 'Shell'.  This will open a command prompt.
-
-In the command line type:
-git log
-
-This will show the full commit messages.

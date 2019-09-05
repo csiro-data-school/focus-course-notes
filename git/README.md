@@ -10,4 +10,4 @@ This folder contains notes from the introductory Git session. Each folder contai
 - **pull:** Getting changes from a remote repository onto your computer
 - **project_structure:** Ideas for how to structure your projects for ease of use
 - **jargon:** Definitions for Git related jargon
-- **general:** Other thoughts around using git that don't fit into a different category eg. use cases, jargon definitions, etc.
+- **general:** Other thoughts around using git that don't fit into a different category eg. use cases, troubleshooting tips, etc.
